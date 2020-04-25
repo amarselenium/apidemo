@@ -16,4 +16,12 @@ public class one {
 		System.out.println("New Reposiorydss");
 		System.out.println("New Reposiorydss");
 	}
+	
+	public void print2()
+	{
+		System.out.println("New Reposiorydss");
+		System.out.println("New Reposiorydss");
+		System.out.println("New Reposiorydss");
+		System.out.println("New Reposiorydss");
+	}
 }
